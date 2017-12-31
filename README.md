@@ -7,7 +7,7 @@ Still not satisfy with those themes?
     $ cd phpmyadmin/themes
     $ git clone https://github.com/dedenbangkit/dedensky.git
     
-        // add this line to config.inc.php
+  add this line to config.inc.php
     $cfg['ThemeDefault']        = 'dedensky';
 
 Now you are less geek than other eyeglass users.
